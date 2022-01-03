@@ -1,0 +1,21 @@
+h1{
+font-size: 30px;
+color: #48e2ef;
+}
+h2{
+color: red;
+font-size: 20px;
+}
+.big{
+font-size: 60px
+}
+.uppercase{
+text-transform: uppercase;	
+}
+.big.uppercase{
+color: navy
+}
+h1 span{
+color: violet
+}
+<p><span>Span elemenT</span></p>
